@@ -8,3 +8,4 @@ Elaborar el proyecto de un modelo de puerta corredera, utilizando herramientas p
 AUTOR
 -------
 FÁTIMA HERNÁNDEZ JUÁREZ 
+DANIEL AVILA PINEDA
